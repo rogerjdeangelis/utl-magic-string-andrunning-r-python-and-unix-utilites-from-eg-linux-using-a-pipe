@@ -4,8 +4,10 @@ Magic string andrunning r python and unix utilites from eg linux using a pipe
 
     Magic string andrunning r python and unix utilites from eg linux using a pipe
 
-    Unchecked code and the drop downs need to updated from windows to lin ux
-
+    Unchecked code and the drop downs need to updated from windows to linux
+    
+    github
+    https://github.com/rogerjdeangelis/utl-magic-string-andrunning-r-python-and-unix-utilites-from-eg-linux-using-a-pipe
 
     Related repos
     https://github.com/rogerjdeangelis/utl-resetting-sas-using-the-magic-string
