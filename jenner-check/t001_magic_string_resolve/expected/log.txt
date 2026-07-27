@@ -1,0 +1,13 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA rpgm
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote rpgm (6 rows, 1 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=rpgm
+
+NOTE: PROC PRINT completed: 6 observations printed, 1 variables

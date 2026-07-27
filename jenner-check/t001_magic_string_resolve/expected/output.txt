@@ -1,0 +1,10 @@
+
+                                                    line
+--------------------------------------------------------
+-- R program assembled by the SAS magic-string technique
+x      <- seq_len(5)
+label  <- "magic"
+dataset<- "sashelp.class"
+values <- rep(label, 5)
+mean_x <- mean(seq_len(5))
+

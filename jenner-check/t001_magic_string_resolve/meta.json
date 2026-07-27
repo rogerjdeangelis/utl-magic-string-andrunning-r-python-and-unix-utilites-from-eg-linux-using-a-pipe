@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_magic_string_resolve",
+  "source_file": "utl-magic-string-andrunning-r-python-and-unix-utilites-from-eg-linux-using-a-pipe.sas",
+  "source_blob_sha": "89039ff9b57b7aef62e3b8cf19676868eab92435",
+  "source_commit": "7734bfd75c2a78bf88b6f8e5c1b06d5364a82d8f",
+  "notes": "Magic-string technique from the utl_rendx macro: read template lines and expand &macro references in place with resolve() (line = resolve(_infile_)). Template supplied inline via datalines4 so the run is self-contained; the assembled program (with &n/&label/&dsn resolved) is collected into dataset rpgm and shown with PROC PRINT so the resolved output lands in the listing. resolve() call and the &-references are the author's technique, unmodified."
+}

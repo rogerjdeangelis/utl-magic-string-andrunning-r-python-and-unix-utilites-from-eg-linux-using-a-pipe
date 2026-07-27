@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-27T04:12:00Z",
+  "_captured_run_id": "r_9b355e5edc6549ae88ec4238319e9031",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Read 6 rows from DATALINES.",
+    "Wrote rpgm (6 rows, 1 columns).",
+    "PROC PRINT completed: 6 observations printed, 1 variables"
+  ],
+  "output_contains": [
+    "x      <- seq_len(5)",
+    "label  <- \"magic\"",
+    "dataset<- \"sashelp.class\"",
+    "mean_x <- mean(seq_len(5))"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
